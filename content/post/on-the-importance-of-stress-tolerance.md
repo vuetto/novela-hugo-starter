@@ -5,7 +5,7 @@ authors:
 title: On The Importance of Stress Tolerance
 excerpt: Stress tolerance is a great indicator of future success
 date: 2022-09-17T22:00:00+00:00
-hero: "/images/ered_xex0amu-fq.jpg"
+hero: "/images/ered_xex0amu-fq-1.jpg"
 
 ---
 Stress tolerance is a great indicator of future success
