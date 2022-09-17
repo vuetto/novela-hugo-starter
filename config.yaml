@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://killersclub.netlify.app"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Killers Club"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
