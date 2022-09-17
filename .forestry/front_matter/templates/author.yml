@@ -44,4 +44,4 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
-- content/authors/Ugo-varlet/ugo-varlet.md
+- content/authors/ugo-varlet.md
