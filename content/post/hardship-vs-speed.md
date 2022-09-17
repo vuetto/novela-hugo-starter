@@ -5,7 +5,7 @@ authors:
 title: Hardship vs Speed
 excerpt: People always moan at me about how hard money is to make.
 date: 2022-09-17T22:00:00+00:00
-hero: "/images/la-salle-de-guerre-est-une-chose-tres-durable-le.jpg"
+hero: "/images/la-salle-de-guerre-est-une-chose-tres-durable-le-1.jpg"
 
 ---
 People always moan at me about how hard money is to make.
