@@ -1,6 +1,7 @@
 ---
 timeToRead: 2
-authors: []
+authors:
+- Joe Lampton
 title: On The Importance of Stress Tolerance
 excerpt: Stress tolerance is a great indicator of future success
 date: 2022-09-17T22:00:00+00:00
