@@ -5,6 +5,5 @@ bio: We all fight our inner demons. The members of the club are just brave enoug
 avatar: "/images/img_2362-modified.png"
 social: []
 featured: true
-draft: true
 
 ---
