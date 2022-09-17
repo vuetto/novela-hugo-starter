@@ -1,6 +1,7 @@
 ---
 timeToRead: 4
-authors: []
+authors:
+- Andrew Tate
 title: Hardship vs Speed
 excerpt: People always moan at me about how hard money is to make.
 date: 2022-09-17T22:00:00+00:00
